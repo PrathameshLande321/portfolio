@@ -1,5 +1,5 @@
 # portfolio
-Welcome to my **personal developer portfolio** built using only **HTML5** and **CSS3**
+Welcome to my **personal developer portfolio** built using **HTML5** and **CSS3**
 
 ## 🚀 Live Demo
 
